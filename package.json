@@ -1,6 +1,6 @@
 {
   "name": "curie-cipher",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A library for encryption and decryption, that works both for the browser and the server",
   "main": "src/index.js",
   "browser": "dist/web.index.js",

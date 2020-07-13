@@ -1,4 +1,4 @@
-name: curiecipher
+name: curie-cipher
 
 on:
   release:

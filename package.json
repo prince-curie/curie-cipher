@@ -1,5 +1,5 @@
 {
-  "name": "CurieCipher",
+  "name": "curie-cipher",
   "version": "0.0.5",
   "description": "A library for encryption and decryption, that works both for the browser and the server",
   "main": "src/index.js",

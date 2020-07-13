@@ -1,8 +1,8 @@
-# CurieCipher
+# curie-cipher
 
 A library for encryption and decryption, that works both for the browser and the server.
 
-![](https://github.com/prince-curie/curie-cipher/workflows/CurieCipher/badge.svg)
+![](https://github.com/prince-curie/curie-cipher/workflows/curie-cipher/badge.svg)
 
 ## Installation
 Requirements:
@@ -10,16 +10,16 @@ Requirements:
 - Node.js
 - npm (Node.js package manager)
 
-Use the package manager [npm](https://www.npmjs.com/package/curiecipher) to install CurieCipher.
+Use the package manager [npm](https://www.npmjs.com/package/curie-cipher) to install curie-cipher.
 
 ```bash
-npm install curiecipher
+npm install curie-cipher
 ```
 
 ## Usage
 
 ```node
-import { encrypt, decrypt } from 'curiecipher'
+import { encrypt, decrypt } from 'curie-cipher'
 
 encrypt("secretKey", "message", "algorithm") # returns an object containing the iv and encrypted data
 

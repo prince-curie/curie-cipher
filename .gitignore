@@ -1,0 +1,5 @@
+src/browser.js
+node_modules
+.nyc_output
+curiecipher-*.*.*.tgz
+dist

@@ -1,0 +1,6 @@
+src/browser.js
+test.js
+webpack.*
+node_modules
+.nyc_output
+curiecipher-*.*.*.tgz

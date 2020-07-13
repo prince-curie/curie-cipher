@@ -7,7 +7,7 @@ const webConfig = {
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'web.index.js',
-    library: 'CurieCipher.js',
+    library: 'curie-cipher.js',
     libraryTarget: 'umd',
     umdNamedDefine: true,
 		globalObject: 'this',
